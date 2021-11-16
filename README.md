@@ -1,6 +1,6 @@
 # The Ocelot Project
 
-![OcelotAlpha](https://user-images.githubusercontent.com/94424028/141928345-376596f3-882b-4b68-8785-61f6ddfe0b28.png)
+![OcelotAlpha200](https://user-images.githubusercontent.com/94424028/141928397-41f657f3-d3bc-49cb-914d-0342f3023dab.png)
 
 
 Ocelot token is a growing decentralized token ecosystem built on the Binance Blockchain aiming to conduct an experiment on economics, trust, and psychology. The experiment is set up to observe the effect of a risky predefined constrained environment presented onto the open market. Over time, Ocelot theorizes that slowly decreasing the inherent risk initially presented will convert the negative sentimental value into trust value.
