@@ -1,5 +1,8 @@
 # The Ocelot Project
 
+![OcelotAlpha](https://user-images.githubusercontent.com/94424028/141928345-376596f3-882b-4b68-8785-61f6ddfe0b28.png)
+
+
 Ocelot token is a growing decentralized token ecosystem built on the Binance Blockchain aiming to conduct an experiment on economics, trust, and psychology. The experiment is set up to observe the effect of a risky predefined constrained environment presented onto the open market. Over time, Ocelot theorizes that slowly decreasing the inherent risk initially presented will convert the negative sentimental value into trust value.
 
 In the beginning, the Ocelot team learned from other tokens and agrees that there is indeed no greatness without an interesting point of vulnerability. To begin our experiment, the founding team minted Ocelot and reserved 70% of the entire total supply of Ocelot (OCELOT) to a dedicated burn wallet. The team has committed to burning the entire wallet at a variable rate in relation to the previous week’s price action, initiated once a week, until there are no more coins left to burn. 
