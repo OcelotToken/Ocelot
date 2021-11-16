@@ -7,7 +7,8 @@ This is a central part to our experiment. The team would like to see psychologic
 
 Please see the graphic that represents our current burn rate schedule.
 
-![BURNSCHEDULE](https://user-images.githubusercontent.com/94424028/141891765-4dfa2289-f451-4671-9c4e-9796e40fb6d8.png)
+![smallBURNSCHEDULE](https://user-images.githubusercontent.com/94424028/141923119-5a0ea59a-ff32-4b7f-841c-a37c91377ddf.png)
+
 
 Looking at our schedule, as an example, if a price of a token was 0.05 at the beginning of one week, and at the end of the week the price ended at 0.06, the percentage gain would be 20%. According to our burn schedule, this would fall under the 12.5% - 25% positive range. The burn rate for that week would be 1.00% of the total supply of Ocelot, or until all the tokens that are reserved for burning run out. 
 
